@@ -30,7 +30,7 @@
         </thead>
         <tbody>
           <?php
-          for ($i = 1; $i <= 200; $i++) :
+          for ($i = 1; $i <= 250; $i++) :
             $airtimeCode = mt_rand($min, $max);
           ?>
             <tr>
